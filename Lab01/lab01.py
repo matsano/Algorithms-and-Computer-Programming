@@ -1,0 +1,34 @@
+﻿x = int(input())
+a = x // 10000
+b = x % 10000
+c = b // 5000
+d = b % 5000
+e = d // 2000
+f = d % 2000
+g = f // 1000
+h = f % 1000
+i = h // 500
+j = h % 500
+k = j // 200
+l = j % 200
+m = l // 100
+n = l % 100
+o = n // 50
+p = n % 50
+q = p // 25
+r = p % 25
+s = r // 10
+t = r % 10
+u = t // 5
+
+print(a, "nota(s) de R$ 100,00.")
+print(c, "nota(s) de R$ 50,00.")
+print(e, "nota(s) de R$ 20,00.")
+print(g, "nota(s) de R$ 10,00.")
+print(i, "nota(s) de R$ 5,00.")
+print(k, "nota(s) de R$ 2,00.")
+print(m, "moeda(s) de R$ 1,00.")
+print(o, "moeda(s) de R$ 0,50.")
+print(q, "moeda(s) de R$ 0,25.")
+print(s, "moeda(s) de R$ 0,10.")
+print(u, "moeda(s) de R$ 0,05.")
