@@ -1,5 +1,5 @@
 # Algorithms-and-Computer-Programming
-Algorithms and Computer Programming Course (MC102)
+Algorithms and Computer Programming Course
 
 ## 📋 Description
 Set of laboratories implemented during the course.
